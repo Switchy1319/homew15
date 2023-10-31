@@ -81,9 +81,7 @@
     header{
         width: 1440px;
     }
-    .main{
-        width: 1440px;
-    }
+
     .eq{
         margin-left: 160px;
     }
@@ -104,8 +102,10 @@
         display: non;
     }
     .meore{
+        position: relative;
         background-image: url(src/Group\ 8.svg);
         background-position: left 165px top 0;
+        margin-bottom: 0px;
     }
     .telefoni{
         margin-top: -200px ;
@@ -114,8 +114,10 @@
         height: 606px;
     }
     .mesame{
-        top: 393px;
-        left: 1200px;
+        position: relative;
+        top: -1160px;
+        left: 400px;
+        bottom: 0px;
     }
     .bachi{
         display: block;
@@ -123,5 +125,9 @@
     }
     .fut{
         display: none;
+    }
+    footer{
+        margin-top: -1000px;
+        margin-bottom: 0px;
     }
 }
