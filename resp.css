@@ -130,4 +130,12 @@
         margin-top: -1000px;
         margin-bottom: 0px;
     }
+    .cont{
+        background-position: right 100px top 0;
+    }
+    .main{
+        width: 1440px;
+        margin-right: 0px;
+        background-position: right 100px top 0;
+    }
 }
