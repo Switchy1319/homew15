@@ -1,0 +1,127 @@
+@media(width > 768px){
+    header{
+        width: 768px;
+        position: relative;
+        background-image: url(src/Oval\ Copy\ 2.svg);
+        background-repeat: no-repeat;
+        background-position: top 0 left 0;
+       
+    }
+    .main{
+        width: 768px;
+        background-image: url(src/-lurji.svg);
+        background-position: top 40px right 40px;
+    }
+    .none{
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+     
+    }
+    .eq{
+        margin-bottom: 300px;
+    }
+    .cont{
+        margin-top: -200px;
+        background-image: url(src/stafilo.svg);
+        background-repeat: no-repeat;
+  
+        background-position: top 90px right 20px; 
+    }
+    .system{
+        margin-bottom: 200px;
+        width: 514px;
+        font-size: 18px;
+        margin-top: 28px;
+    }
+    .meore{
+       margin-top: 0;
+       background-image: url(src/back.svg);
+       background-repeat: no-repeat;
+       background-position: left 33px top 0;
+       height: 600px;
+    
+    }
+    .we{
+        width: 520px;
+        font-size: 64px;
+    }
+    .mesame{
+        width: 399px;
+        position: absolute;
+        margin-top: 735px;
+        margin-left: 280px;
+    }
+    .telefoni{
+        margin-left: 125px;
+    }
+    footer{
+        margin-top: 183px;
+        width: 100%;
+        margin-left: 33px;
+        margin-bottom: 83px;
+    }
+    .kai{
+        display: none;
+    }
+    .sc{
+        display: none;
+    }
+    .all{
+        display: none;
+    }
+    .fut{
+        display: block;
+
+    }
+}
+
+@media(width > 1440px){
+    header{
+        width: 1440px;
+    }
+    .main{
+        width: 1440px;
+    }
+    .eq{
+        margin-left: 160px;
+    }
+    .we{
+        margin-left: 165px;
+        width: 1015px;
+        font-size: 88px;
+        line-height: 88px;
+    }
+    .system{
+        width: 825px;
+        line-height: 34px;
+        font-size: 20px;
+        margin-left: 165px;
+        margin-bottom: 500px;
+    }
+    .none{
+        display: non;
+    }
+    .meore{
+        background-image: url(src/Group\ 8.svg);
+        background-position: left 165px top 0;
+    }
+    .telefoni{
+        margin-top: -200px ;
+        margin-left: 283px;
+        width: 280px;
+        height: 606px;
+    }
+    .mesame{
+        top: 393px;
+        left: 1200px;
+    }
+    .bachi{
+        display: block;
+        margin-left: 145px;
+    }
+    .fut{
+        display: none;
+    }
+}
