@@ -22,7 +22,7 @@ header{
     width: 375px;
     display: grid;
     justify-content: center;
-    border: 2px solid black;
+
     background-image: url(src/Oval.svg);
     background-repeat: no-repeat;
     background-position: right 0 top 0;
